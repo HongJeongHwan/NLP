@@ -35,3 +35,5 @@ chart_data = pd.DataFrame(
 
 # 컬럼 나머지 부분에 라인차트 생성
 cols[2].line_chart(chart_data)
+
+# 

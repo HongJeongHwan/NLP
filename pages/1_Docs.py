@@ -5,7 +5,7 @@ import streamlit as st
 # 페이지 기본 설정
 st.set_page_config(
     page_icon="🐶",
-    page_title="빅공잼의 스트림릿 배포하기",
+    page_title="홍정환의 스트림릿 배포하기",
     layout="wide",
 )
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<useStatus><useStatus>
+    <list_total_count>2704</list_total_count>
+        <row>
+            <END_INDEX>0</END_INDEX>
+            <RENT_NM>729. 서부식자재마트 건너편</RENT_NM>
+            <START_INDEX>0</START_INDEX>
+            <RENT_CNT>53</RENT_CNT>
+            <RTN_CNT>57</RTN_CNT>
+            <STAT_DATA>2024-01-05</STAT_DATA>
+            <STA_LOC>양천구</STA_LOC>
+        </row>
+        <row>
+            <END_INDEX>0</END_INDEX>
+            <RENT_NM>731. 서울시 도로환경관리센터</RENT_NM>
+            <START_INDEX>0</START_INDEX>
+            <RENT_CNT>89</RENT_CNT>
+            <RTN_CNT>96</RTN_CNT>
+            <STAT_DATA>2024-01-05</STAT_DATA>
+            <STA_LOC>양천구</STA_LOC>
+        </row>
+        <row><END_INDEX>0</END_INDEX><RENT_NM>732. 신월중학교</RENT_NM><START_INDEX>0</START_INDEX><RENT_CNT>21</RENT_CNT><RTN_CNT>21</RTN_CNT><STAT_DATA>2024-01-05</STAT_DATA><STA_LOC>양천구</STA_LOC></row><row><END_INDEX>0</END_INDEX><RENT_NM>733. 신정이펜하우스314동</RENT_NM><START_INDEX>0</START_INDEX><RENT_CNT>21</RENT_CNT><RTN_CNT>8</RTN_CNT><STAT_DATA>2024-01-05</STAT_DATA><STA_LOC>양천구</STA_LOC></row><row><END_INDEX>0</END_INDEX><RENT_NM>734. 신트리공원 입구</RENT_NM><START_INDEX>0</START_INDEX><RENT_CNT>83</RENT_CNT><RTN_CNT>90</RTN_CNT><STAT_DATA>2024-01-05</STAT_DATA><STA_LOC>양천구</STA_LOC></row><RESULT><MESSAGE>정상 처리되었습니다.</MESSAGE><CODE>INFO-000</CODE></RESULT></useStatus></useStatus>
+
